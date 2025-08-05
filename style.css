@@ -1,0 +1,258 @@
+.box{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    
+    display: flex;
+    gap: 20px;
+    border: 2px solid;
+}
+.box div{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 6px;
+    
+    
+}
+/* div{
+    display: flex;
+    gap: 20px;
+    border: 2px solid;
+
+} */
+.box1{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+}
+.box1 div{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+    
+}
+.box2{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    
+     flex-wrap: wrap;
+}
+.box2 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box3{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    gap: 30px;
+   
+}
+.box3 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box4{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    
+   
+}
+.box4 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box5{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    justify-content: end;
+    
+   
+}
+.box5 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box6{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+.box6 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box7{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+.box7 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box7{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+.box9 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box9{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    
+    
+   
+}
+.box10 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box10{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    align-items: end;
+    
+   
+}
+.box11 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box11{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+  align-items: center;
+    
+   
+}
+.box12 div{
+    background-color: #F7941F;
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border: 2px solid;
+    border-radius: 6px;
+   
+    
+}
+.box12{
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border-radius: 6px;
+    border: 2px solid;
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+}
